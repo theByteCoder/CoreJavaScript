@@ -1,0 +1,1 @@
+module.exports = "coding is great";

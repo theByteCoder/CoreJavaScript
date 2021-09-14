@@ -1,0 +1,1 @@
+var arrow=(n,o)=>n+o,annonymous=function(n,o){return n+o};const isEqual=arrow(1,3)===annonymous(1,2);console.log(isEqual),console.dir(annonymous(2,3));
